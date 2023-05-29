@@ -1,0 +1,3 @@
+/mnt/c/Users/higor/CLionProjects/arvore/cmake-build-debug/CMakeFiles/arvore.dir
+/mnt/c/Users/higor/CLionProjects/arvore/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/higor/CLionProjects/arvore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
