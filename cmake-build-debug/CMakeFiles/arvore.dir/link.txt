@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/arvore.dir/main.c.o CMakeFiles/arvore.dir/arvore.c.o -o arvore 
